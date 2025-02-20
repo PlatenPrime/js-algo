@@ -1,5 +1,5 @@
-import { linearSearch, arrayForSearch } from "./Arrays/searching/linear.js";
+import { binarySearch, arrayForSearch } from "./Arrays/searching/binary.js";
 
 
 
-linearSearch(arrayForSearch, 35);
+binarySearch(arrayForSearch, 14);
