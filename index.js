@@ -1,5 +1,6 @@
-import { binarySearch, arrayForSearch } from "./Arrays/searching/binary.js";
+
+import { selectionSort, arrayForSearch  } from "./Arrays/sorting/selectionSort.js";
 
 
 
-binarySearch(arrayForSearch, 14);
+selectionSort(arrayForSearch)
